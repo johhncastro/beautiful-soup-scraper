@@ -38,6 +38,5 @@ This Python script is designed to scrape movie transcripts from a specific websi
 ## Conclusion
 
 This Python script serves as a simple yet effective tool for extracting movie transcripts from web pages. It demonstrates the use of BeautifulSoup and Requests for web scraping and can be customized to scrape transcripts from various sources, making it valuable for movie enthusiasts and researchers.
-"""
 
 
