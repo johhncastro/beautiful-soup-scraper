@@ -19,5 +19,5 @@ transcript = parentDiv.find('div', class_='full-script').get_text(strip=True, se
 
 # print(transcript)
 
-with open('harry-potter.txt', 'w') as file:
+with open(f'{title}.txt', 'w') as file:
     file.write("Write Successful:  " + transcript)
